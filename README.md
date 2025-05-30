@@ -23,10 +23,14 @@ Este projeto é uma API desenvolvida em .NET 8 que recebe pedidos via JSON e cal
 ---
 
 ## 📂 Estrutura do Projeto
+
+```
 EmpacotamentoAPI/
 └── EmpacotamentoSolution/
 ├── EmpacotamentoAPI/ # Projeto principal (API)
 └── EmpacotamentoAPIUnitTest/ # Testes unitários
+
+```
 
 ## 📝 Como Executar
 
