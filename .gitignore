@@ -1,0 +1,19 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore Visual Studio specific folders
+.vscode/
+.vs/
+
+# Ignore generated files from .NET
+*.dbmdl
+*.jfm

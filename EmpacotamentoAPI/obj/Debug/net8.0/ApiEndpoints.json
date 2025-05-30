@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EmpacotamentoAPI.Controllers.EmpacotamentoController",
+    "Method": "ProcessarPedidos",
+    "RelativePath": "api/Empacotamento/processar-pedidos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmpacotamentoAPI.Dtos.PedidosRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
